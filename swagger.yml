@@ -32,3 +32,4 @@ paths:
                   type: "string"
                 timestamp:
                   type: "string"
+                  
